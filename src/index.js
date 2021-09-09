@@ -1,5 +1,11 @@
 const messages = [
     'Juan',
+    'Marcos',
+    'Jose',
+    'Julieta',
+    'Rocio',
+    'Manuela',
+    'Cecilia',
     'Ana',
     'Nocolay',
     'Diego',

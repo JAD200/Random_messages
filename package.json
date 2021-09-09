@@ -14,7 +14,7 @@
   "author": "Juan Di Pasquo <juandipasquo@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-mesg": "./bin/globals.js"
+    "random-msg": "./bin/global.js"
   },
   "preferGlobal": true
 }
