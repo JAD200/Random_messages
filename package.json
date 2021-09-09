@@ -1,0 +1,20 @@
+{
+  "name": "random_messages",
+  "version": "1.0.0",
+  "description": "random de mensajes ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "node",
+    "npm"
+  ],
+  "author": "Juan Di Pasquo <juandipasquo@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-mesg": "./bin/globals.js"
+  },
+  "preferGlobal": true
+}
